@@ -1,4 +1,6 @@
 # Usage
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fteran%2Fimgsum.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fteran%2Fimgsum?ref=badge_shield)
+
 
 The tool would produce 64-bit integer as a hash
 
@@ -65,3 +67,7 @@ Image format supported and tested:
 # TODO
 
  * ORF format support
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fteran%2Fimgsum.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fteran%2Fimgsum?ref=badge_large)
